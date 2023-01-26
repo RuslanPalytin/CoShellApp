@@ -3,5 +3,6 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/rubik_regular</item>
         <item>@font/rubik_medium</item>
+        <item>@font/inter</item>
     </array>
 </resources>

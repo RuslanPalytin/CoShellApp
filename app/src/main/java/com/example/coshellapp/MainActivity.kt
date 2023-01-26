@@ -10,6 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.coshellapp.auth.LoginScreen
 import com.example.coshellapp.auth.OnBoardingScreen
 import com.example.coshellapp.ui.theme.CoShellAppTheme
 
@@ -18,7 +19,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             CoShellAppTheme {
-                OnBoardingScreen()
+                LoginScreen()
             }
         }
     }

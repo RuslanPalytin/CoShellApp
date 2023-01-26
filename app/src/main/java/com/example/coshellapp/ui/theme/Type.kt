@@ -18,3 +18,4 @@ val Typography = Typography(
 )
 val RubikMedium = FontFamily(Font(R.font.rubik_medium))
 val RubikRegular = FontFamily(Font(R.font.rubik_regular))
+val InterRegular = FontFamily(Font(R.font.inter))
